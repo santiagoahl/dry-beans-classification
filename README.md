@@ -78,7 +78,7 @@ This software uses the following open libraries and datasets:
 - [Seaborn](https://github.com/chjj/marked)
 - [Pandas](http://showdownjs.github.io/showdown/)
 - [Sci-kit Learn](http://codemirror.net/)
-- [Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn/download?datasetVersionNumber=1)
+- [Dataset](https://www.kaggle.com/datasets/sansuthi/dry-bean-dataset)
 
 
 ## License
